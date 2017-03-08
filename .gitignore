@@ -59,3 +59,6 @@ typings/
 
 # Cloud9 IDE settings
 .c9/
+
+#DS_Store
+.DS_Store

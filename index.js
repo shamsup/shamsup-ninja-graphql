@@ -1,3 +1,4 @@
 const server = require('./server')
+const port = process.env.PORT || 8080
 
-server.listen(process.env.PORT || 8080, () => console.log('Listening'))
+server.listen(port, () => console.log('Listening on port: ', port))

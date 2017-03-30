@@ -1,6 +1,6 @@
 # Ninja CMS
 
-A lightweight GraphQL-based CMS built on Node.js
+A GraphQL-based CMS built on Node.js
 
 ## Features
 - [ ] Pages

@@ -1,23 +1,23 @@
 {
-  "name": "shamsup-ninja",
+  "name": "shamsup-ninja-graphql",
   "version": "0.0.1",
-  "description": "Shamsup.ninja blog platform",
+  "description": "Shamsup.ninja GraphQL API",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test": "./node_modules/./bin/mocha",
+    "test": "./node_modules/.bin/mocha",
     "lint": "./node_modules/.bin/eslint ./"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shamsup/shamsup-ninja.git"
+    "url": "git+https://github.com/shamsup/shamsup-ninja-graphql.git"
   },
-  "author": "shamsup",
+  "author": "Alex Mitchell",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shamsup/shamsup-ninja/issues"
+    "url": "https://github.com/shamsup/shamsup-ninja-graphql/issues"
   },
-  "homepage": "https://github.com/shamsup/shamsup-ninja#readme",
+  "homepage": "https://github.com/shamsup/shamsup-ninja-graphql#readme",
   "devDependencies": {
     "chai": "^3.5.0",
     "eslint": "^3.16.0",

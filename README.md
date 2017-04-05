@@ -6,9 +6,9 @@ A GraphQL-based CMS built on Node.js
 - [ ] Pages
 - [ ] Posts
   - [ ] Custom Post Types
-  - [ ] Images
-  - [ ] Videos
-  - [ ] Other Embeds
+    - [ ] Images
+    - [ ] Videos
+    - [ ] Other Embeds
 - [ ] Authentication
 - [ ] Simple (but useful) Permissions System
   - [ ] Premade Roles
